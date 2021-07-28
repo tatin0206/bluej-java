@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=SalaCineImax
+comment0.text=\nBuenas\ practicas\ninicializar\ un\ constructor\ vacio\ninicializar\ un\ constructor\ con\ todos\ los\ atributos\n
+comment1.params=
+comment1.target=SalaCineImax()
+comment1.text=para\ utilizar\ el\ contrcutor\ de\ la\ clase\ padre\n\ \ \ \ \ debo\ inicializar\ un\ constructor\ blanco\ en\ el\ hijo\n\ \ \ \ \ y\ colocar\ la\ palabra\ super()\n
+comment2.params=capacidadMax\ cantidadActual\ nombrePelicula\ sistemaSonido
+comment2.target=SalaCineImax(int,\ int,\ java.lang.String,\ java.lang.String)
+comment3.params=sistemaSonido
+comment3.target=void\ setSistemaSonido(java.lang.String)
+comment4.params=
+comment4.target=java.lang.String\ getSistemaSonido()
+numComments=5

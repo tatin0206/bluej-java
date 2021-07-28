@@ -1,0 +1,21 @@
+#BlueJ class context
+comment0.target=Electrodomestico
+comment0.text=\ para\ no\ crear\ objetos\ de\ la\ clase\nse\ debe\ colocar\ en\ la\ clase\ abstract
+comment1.params=
+comment1.target=Electrodomestico()
+comment2.params=color\ marca\ precio
+comment2.target=Electrodomestico(java.lang.String,\ java.lang.String,\ int)
+comment3.params=
+comment3.target=java.lang.String\ getColor()
+comment3.text=Crear\ constructores\ individuales\ set\ \=\ Obtiene\ los\ datos\ \n\ get\ \=\ acceder\ a\ los\ datos\ donde\ se\ necesitan\n
+comment4.params=color
+comment4.target=void\ setColor(java.lang.String)
+comment5.params=
+comment5.target=java.lang.String\ getMarca()
+comment6.params=marca
+comment6.target=void\ setMarca(java.lang.String)
+comment7.params=
+comment7.target=int\ getPrecio()
+comment8.params=precio
+comment8.target=void\ setPrecio(int)
+numComments=9

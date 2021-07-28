@@ -1,0 +1,11 @@
+#BlueJ class context
+comment0.target=Pantalla
+comment1.params=
+comment1.target=void\ presentarmenu()
+comment2.params=pregunta
+comment2.target=double\ validarDatoNumerico(java.lang.String)
+comment3.params=
+comment3.target=java.lang.String\ preguntarMaterial()
+comment4.params=
+comment4.target=void\ informacion_caja()
+numComments=5

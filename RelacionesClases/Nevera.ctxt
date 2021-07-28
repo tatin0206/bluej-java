@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.target=Nevera
+comment1.params=tipo\ capacidad
+comment1.target=Nevera(java.lang.String,\ double)
+comment2.params=
+comment2.target=java.lang.String\ getTipo()
+comment3.params=
+comment3.target=double\ getCapacidad()
+numComments=4

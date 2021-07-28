@@ -1,0 +1,25 @@
+#BlueJ class context
+comment0.target=Caja
+comment1.params=Altura\ Ancho\ Largo\ Material
+comment1.target=Caja(double,\ double,\ double,\ java.lang.String)
+comment10.params=mate
+comment10.target=void\ setMaterial(java.lang.String)
+comment11.params=
+comment11.target=java.lang.String\ getMaterial()
+comment2.params=
+comment2.target=java.lang.String\ Informacion_caja()
+comment3.params=
+comment3.target=Caja()
+comment4.params=largo
+comment4.target=void\ setLargo(double)
+comment5.params=
+comment5.target=double\ getLargo()
+comment6.params=an
+comment6.target=void\ setAncho(double)
+comment7.params=
+comment7.target=double\ getAncho()
+comment8.params=al
+comment8.target=void\ setAltura(double)
+comment9.params=
+comment9.target=double\ getAltura()
+numComments=12

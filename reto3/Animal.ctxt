@@ -1,0 +1,17 @@
+#BlueJ class context
+comment0.target=Animal
+comment1.params=peso
+comment1.target=void\ setPeso(double)
+comment2.params=
+comment2.target=double\ getPeso()
+comment3.params=altura
+comment3.target=void\ setAltura(double)
+comment4.params=
+comment4.target=double\ getAltura()
+comment5.params=alimsIngeridos
+comment5.target=void\ setAlimsIngeridos(Alimento[])
+comment6.params=
+comment6.target=Alimento[]\ getAlimsIngeridos()
+comment7.params=
+comment7.target=double\ getIMC()
+numComments=8

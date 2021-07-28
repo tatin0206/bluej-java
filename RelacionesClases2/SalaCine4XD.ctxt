@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=SalaCine4XD
+comment1.params=
+comment1.target=SalaCine4XD()
+comment2.params=capacidadMax\ cantidadActual\ nombrePelicula\ marcaSilla
+comment2.target=SalaCine4XD(int,\ int,\ java.lang.String,\ java.lang.String)
+comment3.params=marcaSilla
+comment3.target=void\ setMarcaSilla(java.lang.String)
+comment4.params=
+comment4.target=java.lang.String\ getMarcaSilla()
+comment5.params=
+comment5.target=void\ limpiarSala()
+numComments=6

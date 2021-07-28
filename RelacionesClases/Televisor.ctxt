@@ -1,0 +1,16 @@
+#BlueJ class context
+comment0.target=Televisor
+comment1.params=color\ marca\ precio
+comment1.target=Televisor(java.lang.String,\ java.lang.String,\ int)
+comment1.text=\n\ \ \ \ Se\ crean\ varios\ constructores,\ dependiendo\ los\ parametros\ que\n\ \ \ \ se\ han\ llamado\ en\ la\ clase\ principal\n
+comment2.params=color\ marca\ precio\ resolucion\ pulgadas
+comment2.target=Televisor(java.lang.String,\ java.lang.String,\ int,\ java.lang.String,\ int)
+comment3.params=
+comment3.target=void\ setResolucion()
+comment4.params=
+comment4.target=java.lang.String\ getResolucion()
+comment5.params=
+comment5.target=void\ setPulgadas()
+comment6.params=
+comment6.target=int\ getPulgadas()
+numComments=7

@@ -1,0 +1,11 @@
+#BlueJ class context
+comment0.target=Alimento
+comment1.params=
+comment1.target=Alimento()
+comment2.params=gramos
+comment2.target=Alimento(double)
+comment3.params=gramos
+comment3.target=void\ setGramos(double)
+comment4.params=
+comment4.target=double\ getGramos()
+numComments=5
